@@ -1,0 +1,2 @@
+word hello!
+my is name zmyu
